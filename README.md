@@ -5,7 +5,7 @@
 
 # BDD and OOD Boris-Bikes
 
-The goal of this project to demonstrate understanding of
+The goal of this project is to demonstrate an understanding of
 
 - Behaviour Driven Development (BDD)
 - How BDD relates to Test Driven Development (TDD)
@@ -58,7 +58,7 @@ I'd like vans to collect working bikes from garages and distribute them to docki
 As the objective is to build a **simple**, **manageable** features such as payment has been omitted.
 
 Domain Model (Boris bikes)
-- describes teh objects in a system, and
+- describes the objects in a system, and
 - describes how those objects interact.
 
 
